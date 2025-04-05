@@ -16,4 +16,5 @@ This project implements the LightGCN (Lightweight Graph Convolutional Network) m
 ![image](https://github.com/user-attachments/assets/ae53e874-1703-4b1a-9cc5-7a4d0127a2fc)
 
 Got 0.1666 in recall, 0.0379 in precision and 0.108 in ndcg
+
 ![image](https://github.com/user-attachments/assets/002e8d66-20ca-493f-8bbb-6de7d19658e2)
